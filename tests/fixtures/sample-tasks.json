@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "nextId": 4,
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Buy groceries",
+      "status": "completed",
+      "createdAt": "2026-01-03T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Call mom",
+      "status": "pending",
+      "createdAt": "2026-01-03T10:05:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Finish report",
+      "status": "pending",
+      "createdAt": "2026-01-03T10:10:00.000Z"
+    }
+  ]
+}

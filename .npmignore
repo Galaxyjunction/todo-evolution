@@ -1,0 +1,33 @@
+# Source files (publish compiled only)
+src/
+tests/
+specs/
+
+# Config files
+tsconfig.json
+vitest.config.ts
+.eslintrc*
+eslint.config.*
+.prettierrc*
+
+# Development
+.git/
+.github/
+.vscode/
+.idea/
+
+# Documentation (except README)
+docs/
+*.md
+!README.md
+
+# Test artifacts
+coverage/
+*.test.ts
+*.spec.ts
+
+# Other
+.specify/
+history/
+.claude/
+CLAUDE.md
